@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1750341683213" clover="3.2.0">
+  <project timestamp="1750341683214" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3" elements="13" coveredelements="13" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="ErrorRepository.js" path="E:\Python\Учеба\map\error-repository\src\ErrorRepository.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="7" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="9" type="stmt"/>
+      <line num="14" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
